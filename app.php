@@ -137,7 +137,7 @@
                      showcasing CRUD (Create, Read, Update, Delete)<br>
                       functionality.</p>
                       <div class="icon">
-                      <a href="https://www.linkedin.com/in/sadaf-javed-0428552b2/"><i class="fa-brands fa-linkedin-in"></i></a>
+                      <a href="https://www.linkedin.com/posts/sadaf-javed-0428552b2_php-mysql-bootstrap-activity-7260941079112212480-rbnA?utm_source=share&utm_medium=member_android"><i class="fa-brands fa-linkedin-in"></i></a>
                       <a href="https://github.com/Sadafhssc/CRUD-app"><i class="fa-brands fa-github-alt"></i></a>
                 </div></div>
             </div>
@@ -149,7 +149,7 @@
                         infinite scroll, loading bars, React routing,<br>
                          and class-based components using React.js.</p>
                          <div class="icon">
-                         <a href="https://www.linkedin.com/in/sadaf-javed-0428552b2/"><i class="fa-brands fa-linkedin-in"></i></a>
+                         <a href="https://www.linkedin.com/posts/sadaf-javed-0428552b2_newsfusion-reactapp-html-activity-7218868404084994048-zTH7?utm_source=share&utm_medium=member_android"><i class="fa-brands fa-linkedin-in"></i></a>
                          <a href="https://github.com/Sadafhssc"><i class="fa-brands fa-github-alt"></i></a>
                 </div></div>
 </div>

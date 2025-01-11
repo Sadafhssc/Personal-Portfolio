@@ -9,7 +9,7 @@ document.querySelector('.downloadcv').addEventListener('click',()=>{
     document.body.removeChild(link);
 })
 document.querySelector('.downloadct').addEventListener('click',()=>{
-    const url='file:///C:/Users/HZ/Documents/CV.pdf';
+    const url='file:///C:/Users/HZ/Downloads/Sadaf%20Javed.pdf';
     const link=document.createElement("a");
     link.href=url;
     link.download="remove.pdf";
