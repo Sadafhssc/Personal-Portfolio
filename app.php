@@ -31,7 +31,7 @@
                 <p>I am a skilled full-stack developer with expertise in designing, developing,<br>
                      and deploying dynamic web applications with proficiency in both front-end <br>
                      and back-end technologies.</p>
-                     <button class="btn downloadcv">View CV</button>
+                    <a href="CV.pdf"><button class="btn downloadcv">View CV</button></a>
                      <div class="icons">
                         <a href="#"><i class="fa-brands fa-twitter"></i></a>
                         <a href="https://www.linkedin.com/in/sadaf-javed-0428552b2/"><i class="fa-brands fa-linkedin-in"></i></a>
@@ -69,7 +69,7 @@
                 <h3>Artifical Intelligence Community of Pakistan</h3>
                 <p>June 2024-Sep 2024</p>
                 <h3>Frontend Web Development</h3>
-                <button class="btn2 downloadct">View cerificate</button>
+                <a href="Sadaf Javed.pdf"><button class="btn2 downloadct">View cerificate</button></a>
             </div>
             <div class="box2">
                 <h3>123 E-filing (United Kingdom)</h3>
