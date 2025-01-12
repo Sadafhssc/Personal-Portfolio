@@ -1,3 +1,4 @@
+
 document.querySelector('.downloadcv').addEventListener('click',()=>{
     const url='file:///C:/Users/HZ/Documents/CV.pdf';
     const link=document.createElement("a");

@@ -14,7 +14,7 @@
 <body>
     <div class="container">
         <div class="navbar">
-            <h2 class="logo">Sadaf.</h2>
+           <div class="logo"><h2>Sadaf J.</h2></div>
             <ul>
                 <li><a href="#home">Home</a></li>
                 <li><a href="#education">Education</a></li>
@@ -26,7 +26,7 @@
         <section id="home">
         <div class="about">
             <div class="left">
-                <h1>Hi, I'm Sadaf Javed<br>
+                <h1>Hi, I'm <span class="name"></span><br>
                    <span>Full Stack Developer</span></h1>
                 <p>I am a skilled full-stack developer with expertise in designing, developing,<br>
                      and deploying dynamic web applications with proficiency in both front-end <br>
@@ -73,15 +73,15 @@
             </div>
             <div class="box2">
                 <h3>123 E-filing (United Kingdom)</h3>
-                <p>Oct 2024 till date</p>
-                <h3>Backend Web Developer</h3>
+                <p>Oct 2024-Dec 2024</p>
+                <h3>Client dealing (Live Chat)</h3>
                <a href="https://www.123efiling.co.uk/"><button class="btn2">Visit Website</button></a>
             </div>
         </div>
         </div></section>
         <section id="skills">
-    <div class="skills">
         <h2>My Skills</h2>
+    <div class="skills">
         <div class="frontend">
              <div class="skill">
                 <div class="img"><img src="html.png" alt="html"><span>HTML</span></div>
@@ -101,9 +101,8 @@
                   interactive, and scalable web applications<br>
                  with clean and efficient code.</p>
              </div>
-            
         </div>
-        <div class="frontend">
+        <div class="backend">
             <div class="skill">
                 <div class="img"><img src="react.png" alt="react"><span>React</span></div>
                 <p>Advanced React skills, proficient in building <br> 
@@ -223,18 +222,26 @@ $conn->close();
 
                 </div>
                 <div class="right">
-                    <h3>Contact Details</h3>
+                <h3>Contact Details</h3>
+                    <div class="box6">
                     <div class="box5">
                     <i class="fa-solid fa-phone"></i> <p>0330-0000000</p>
                     <i class="fa-solid fa-envelope"></i> <p>Sadafhssc234@gmail.com</p>
                     <i class="fa-brands fa-skype"></i> <p>live:.cid.4fb51427a54e8cf8</p>
-                </div></div></div>
+                </div></div></div></div>
             </section>
                 <div class="copyright">
                     <p>Copyright <i class="fa-regular fa-copyright"></i> 2025 Sadaf Javed | All rights reserved</p>
-                </div>
-    </div>
+                </div></div>
+                <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
     <script src="app.js"></script>
-    <script src="index.js"></script>
+    <script>
+        let typed= new Typed(".name",{
+  strings:["Sadaf Javed"],
+  typeSpeed:150,
+  backSpeed:150,
+  looped:true,
+})
+    </script>
 </body>
 </html>
